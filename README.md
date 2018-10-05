@@ -1,3 +1,3 @@
 # SampleJavaProject
 Sample Java Project
-Script for Automatic Build 4
+Script for Automatic Build 5
